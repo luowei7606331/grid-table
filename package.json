@@ -1,0 +1,20 @@
+{
+  "name": "grid-table",
+  "version": "1.0.0",
+  "description": "这是一个grid模拟表格的简单布局组件,解决表格每一列的宽度范围限制，也可以实现单元快编辑，展示子表的功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luowei7606331/grid-table.git"
+  },
+  "keywords": ["table","grid-table"],
+  "author": "kyol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luowei7606331/grid-table/issues"
+  },
+  "homepage": "https://github.com/luowei7606331/grid-table#readme"
+}
